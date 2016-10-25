@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_controllable_device.xml",
+        "source": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\layout\\activity_controllable_device.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_device_list.xml",
+        "source": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\layout\\activity_device_list.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_weightscale.xml",
+        "source": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\layout\\layout_weightscale.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_session.xml",
+        "source": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\layout\\layout_session.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_fe_settings.xml",
+        "source": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\layout\\dialog_fe_settings.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_geocache_reqauthtoken.xml",
+        "source": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\layout\\dialog_geocache_reqauthtoken.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_async_scan.xml",
+        "source": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\layout\\activity_async_scan.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_file_id.xml",
+        "source": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\layout\\layout_file_id.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fitnessequipment.xml",
+        "source": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\layout\\activity_fitnessequipment.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_stride_sdm.xml",
+        "source": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\layout\\activity_stride_sdm.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bike_cadence.xml",
+        "source": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\layout\\activity_bike_cadence.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_bloodpressure.xml",
+        "source": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\layout\\layout_bloodpressure.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_multidevice_filter.xml",
+        "source": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\layout\\activity_multidevice_filter.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_heart_rate.xml",
+        "source": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\layout\\activity_heart_rate.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_geocache_programdevice.xml",
+        "source": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\layout\\dialog_geocache_programdevice.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dashboard.xml",
+        "source": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_remote_control.xml",
+        "source": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\layout\\activity_video_remote_control.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bike_speeddistance.xml",
+        "source": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\layout\\activity_bike_speeddistance.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_multidevice_searchresult.xml",
+        "source": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\layout\\layout_multidevice_searchresult.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_generic_remote_control.xml",
+        "source": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\layout\\activity_generic_remote_control.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_weightscale_user_profile.xml",
+        "source": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\layout\\layout_weightscale_user_profile.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_weightscale_configuserprofile.xml",
+        "source": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\layout\\dialog_weightscale_configuserprofile.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_audio_remote_control.xml",
+        "source": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\layout\\activity_audio_remote_control.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_device_info.xml",
+        "source": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\layout\\layout_device_info.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_weightscale.xml",
+        "source": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\layout\\activity_weightscale.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bike_power.xml",
+        "source": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\layout\\activity_bike_power.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_environment.xml",
+        "source": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\layout\\activity_environment.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_progresswaiter.xml",
+        "source": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\layout\\dialog_progresswaiter.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_geocache_deviceinfo.xml",
+        "source": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\layout\\dialog_geocache_deviceinfo.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_activity.xml",
+        "source": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\layout\\layout_activity.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_geocache.xml",
+        "source": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\layout\\activity_geocache.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_bloodpressure_user_profile.xml",
+        "source": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\layout\\layout_bloodpressure_user_profile.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_multidevice_scan.xml",
+        "source": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\layout\\activity_multidevice_scan.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_watchdata.xml",
+        "source": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\layout\\dialog_watchdata.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bloodpressure.xml",
+        "source": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\layout\\activity_bloodpressure.xml"
+    }
+]

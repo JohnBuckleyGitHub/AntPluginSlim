@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\AndroidStudioProjects\AntPluginSlim\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e788cccff7ae51d2cbe033613b4c8f24370c2720">
+        <dex dex="C:\AndroidStudioProjects\AntPluginSlim\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4e76713143cdbf00f0d7787170c575c28bad06db\classes.dex" />
+    </item>
+    <item
+        jar="C:\AndroidStudioProjects\AntPluginSlim\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="010058321a66d449bad332d09d6e46e644b9d6c2">
+        <dex dex="C:\AndroidStudioProjects\AntPluginSlim\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_aadaaf8a5d3b999a4d096743929540f017e4f0bb\classes.dex" />
+    </item>
+    <item
+        jar="C:\AndroidStudioProjects\AntPluginSlim\Ant+API\antpluginlib_3-5-0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ca2a037281859d6728978045c44d301d10a105f8">
+        <dex dex="C:\AndroidStudioProjects\AntPluginSlim\app\build\intermediates\transforms\dex\debug\folders\1000\2\antpluginlib_3-5-0_01787a7205ef4ebf554be85140ededc7778b4271\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\AndroidStudioProjects\AntPluginSlim\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_2205dc014a04cdd7fdcc3c6d3e2e8c6be689c2fc\classes.dex" />
+    </item>
+    <item
+        jar="C:\AndroidStudioProjects\AntPluginSlim\Ant+API\fit_14.10.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a289d4539c9ac3781792477eea05e993254e5d59">
+        <dex dex="C:\AndroidStudioProjects\AntPluginSlim\app\build\intermediates\transforms\dex\debug\folders\1000\2\fit_14.10_2c764d45e7c630ef4bb6748b0e578dd2c4409310\classes.dex" />
+    </item>
+    <item
+        jar="C:\AndroidStudioProjects\AntPluginSlim\AntAPI\android_antlib_4-12-0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="442b70d985b2098378c05fe9772a48f8b821490a">
+        <dex dex="C:\AndroidStudioProjects\AntPluginSlim\app\build\intermediates\transforms\dex\debug\folders\1000\2\android_antlib_4-12-0_966bfbc7003efa352e0b39f15c5fbe4042a567f2\classes.dex" />
+    </item>
+
+</items>
