@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\AndroidStudioProjects\AntPluginSlim\app\src\main\AndroidManifest.xml:11:1-138:12
+ADDED from C:\AndroidStudioProjects\AntPluginSlim\app\src\main\AndroidManifest.xml:11:1-48:12
 	package
 		ADDED from C:\AndroidStudioProjects\AntPluginSlim\app\src\main\AndroidManifest.xml:12:5-48
 		INJECTED from C:\AndroidStudioProjects\AntPluginSlim\app\src\main\AndroidManifest.xml
@@ -26,7 +26,7 @@ ADDED from C:\AndroidStudioProjects\AntPluginSlim\app\src\main\AndroidManifest.x
 		INJECTED from C:\AndroidStudioProjects\AntPluginSlim\app\src\main\AndroidManifest.xml
 		INJECTED from C:\AndroidStudioProjects\AntPluginSlim\app\src\main\AndroidManifest.xml
 application
-ADDED from C:\AndroidStudioProjects\AntPluginSlim\app\src\main\AndroidManifest.xml:20:5-136:19
+ADDED from C:\AndroidStudioProjects\AntPluginSlim\app\src\main\AndroidManifest.xml:20:5-46:19
 	android:label
 		ADDED from C:\AndroidStudioProjects\AntPluginSlim\app\src\main\AndroidManifest.xml:23:9-41
 	android:allowBackup
@@ -52,22 +52,22 @@ ADDED from C:\AndroidStudioProjects\AntPluginSlim\app\src\main\AndroidManifest.x
 	android:name
 		ADDED from C:\AndroidStudioProjects\AntPluginSlim\app\src\main\AndroidManifest.xml:31:27-74
 activity#com.dsi.ant.antplus.pluginsampler.Activity_BikeCadenceSampler
-ADDED from C:\AndroidStudioProjects\AntPluginSlim\app\src\main\AndroidManifest.xml:44:9-48:50
+ADDED from C:\AndroidStudioProjects\AntPluginSlim\app\src\main\AndroidManifest.xml:34:9-38:50
 	android:screenOrientation
-		ADDED from C:\AndroidStudioProjects\AntPluginSlim\app\src\main\AndroidManifest.xml:47:13-49
+		ADDED from C:\AndroidStudioProjects\AntPluginSlim\app\src\main\AndroidManifest.xml:37:13-49
 	android:label
-		ADDED from C:\AndroidStudioProjects\AntPluginSlim\app\src\main\AndroidManifest.xml:46:13-56
+		ADDED from C:\AndroidStudioProjects\AntPluginSlim\app\src\main\AndroidManifest.xml:36:13-56
 	android:configChanges
-		ADDED from C:\AndroidStudioProjects\AntPluginSlim\app\src\main\AndroidManifest.xml:48:13-48
+		ADDED from C:\AndroidStudioProjects\AntPluginSlim\app\src\main\AndroidManifest.xml:38:13-48
 	android:name
-		ADDED from C:\AndroidStudioProjects\AntPluginSlim\app\src\main\AndroidManifest.xml:45:13-56
+		ADDED from C:\AndroidStudioProjects\AntPluginSlim\app\src\main\AndroidManifest.xml:35:13-56
 activity#com.dsi.ant.antplus.pluginsampler.Activity_BikeSpeedDistanceSampler
-ADDED from C:\AndroidStudioProjects\AntPluginSlim\app\src\main\AndroidManifest.xml:49:9-53:50
+ADDED from C:\AndroidStudioProjects\AntPluginSlim\app\src\main\AndroidManifest.xml:39:9-43:50
 	android:screenOrientation
-		ADDED from C:\AndroidStudioProjects\AntPluginSlim\app\src\main\AndroidManifest.xml:52:13-49
+		ADDED from C:\AndroidStudioProjects\AntPluginSlim\app\src\main\AndroidManifest.xml:42:13-49
 	android:label
-		ADDED from C:\AndroidStudioProjects\AntPluginSlim\app\src\main\AndroidManifest.xml:51:13-67
+		ADDED from C:\AndroidStudioProjects\AntPluginSlim\app\src\main\AndroidManifest.xml:41:13-67
 	android:configChanges
-		ADDED from C:\AndroidStudioProjects\AntPluginSlim\app\src\main\AndroidManifest.xml:53:13-48
+		ADDED from C:\AndroidStudioProjects\AntPluginSlim\app\src\main\AndroidManifest.xml:43:13-48
 	android:name
-		ADDED from C:\AndroidStudioProjects\AntPluginSlim\app\src\main\AndroidManifest.xml:50:13-62
+		ADDED from C:\AndroidStudioProjects\AntPluginSlim\app\src\main\AndroidManifest.xml:40:13-62

@@ -4,7 +4,7 @@
     api-level="21"
     density="xxhdpi"
     format="7"
-    timestamp="92156127908932"
+    timestamp="93081205360716"
     token="9131596692442596537" >
 
     <task
@@ -15,19 +15,19 @@
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="178" />
+        duration="0" />
     <task
         name="verifier"
-        duration="52" />
+        duration="0" />
 
     <artifact
-        location="C:\AndroidStudioProjects\AntPluginSlim\app\build\outputs\apk\app-debug.apk"
-        type="MAIN" />
+        location="C:\AndroidStudioProjects\AntPluginSlim\app\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
 
-    <build timestamp="92156127908932" >
+    <build timestamp="93081205360716" >
         <artifact
-            location="C:\AndroidStudioProjects\AntPluginSlim\app\build\outputs\apk\app-debug.apk"
-            type="MAIN" />
+            location="C:\AndroidStudioProjects\AntPluginSlim\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>
