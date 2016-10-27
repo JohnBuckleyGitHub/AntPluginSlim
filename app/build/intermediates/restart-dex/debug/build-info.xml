@@ -4,30 +4,44 @@
     api-level="21"
     density="xxhdpi"
     format="7"
-    timestamp="93081205360716"
-    token="9131596692442596537" >
+    timestamp="163005199589234"
+    token="9131596692442596537"
+    verifier="R_CLASS_CHANGE" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="944" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="210" />
     <task
         name="verifier"
-        duration="0" />
+        duration="21" />
 
     <artifact
         location="C:\AndroidStudioProjects\AntPluginSlim\app\build\intermediates\res\resources-debug.ap_"
         type="RESOURCES" />
+    <artifact
+        location="C:\AndroidStudioProjects\AntPluginSlim\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+        type="DEX" />
 
-    <build timestamp="93081205360716" >
+    <build timestamp="162898631963693" >
+        <artifact
+            location="C:\AndroidStudioProjects\AntPluginSlim\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="163005199589234"
+        verifier="R_CLASS_CHANGE" >
         <artifact
             location="C:\AndroidStudioProjects\AntPluginSlim\app\build\intermediates\res\resources-debug.ap_"
             type="RESOURCES" />
+        <artifact
+            location="C:\AndroidStudioProjects\AntPluginSlim\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
     </build>
 
 </instant-run>

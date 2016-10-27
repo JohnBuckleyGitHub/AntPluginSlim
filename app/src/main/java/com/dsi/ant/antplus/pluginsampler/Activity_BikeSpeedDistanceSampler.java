@@ -9,10 +9,6 @@ All rights reserved.
 
 package com.dsi.ant.antplus.pluginsampler;
 
-import java.math.BigDecimal;
-import java.math.RoundingMode;
-import java.util.EnumSet;
-
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
@@ -25,7 +21,6 @@ import android.view.MenuItem;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.dsi.ant.antplus.pluginsampler.multidevicesearch.Activity_MultiDeviceSearchSampler;
 import com.dsi.ant.plugins.antplus.pcc.AntPlusBikeCadencePcc;
 import com.dsi.ant.plugins.antplus.pcc.AntPlusBikeCadencePcc.ICalculatedCadenceReceiver;
 import com.dsi.ant.plugins.antplus.pcc.AntPlusBikeSpeedDistancePcc;
@@ -35,7 +30,6 @@ import com.dsi.ant.plugins.antplus.pcc.AntPlusBikeSpeedDistancePcc.IMotionAndSpe
 import com.dsi.ant.plugins.antplus.pcc.AntPlusBikeSpeedDistancePcc.IRawSpeedAndDistanceDataReceiver;
 import com.dsi.ant.plugins.antplus.pcc.defines.BatteryStatus;
 import com.dsi.ant.plugins.antplus.pcc.defines.DeviceState;
-import com.dsi.ant.plugins.antplus.pcc.defines.DeviceType;
 import com.dsi.ant.plugins.antplus.pcc.defines.EventFlag;
 import com.dsi.ant.plugins.antplus.pcc.defines.RequestAccessResult;
 import com.dsi.ant.plugins.antplus.pccbase.AntPluginPcc.IDeviceStateChangeReceiver;
@@ -44,8 +38,11 @@ import com.dsi.ant.plugins.antplus.pccbase.AntPlusBikeSpdCadCommonPcc.IBatterySt
 import com.dsi.ant.plugins.antplus.pccbase.AntPlusLegacyCommonPcc.ICumulativeOperatingTimeReceiver;
 import com.dsi.ant.plugins.antplus.pccbase.AntPlusLegacyCommonPcc.IManufacturerAndSerialReceiver;
 import com.dsi.ant.plugins.antplus.pccbase.AntPlusLegacyCommonPcc.IVersionAndModelReceiver;
-import com.dsi.ant.plugins.antplus.pccbase.MultiDeviceSearch.MultiDeviceSearchResult;
 import com.dsi.ant.plugins.antplus.pccbase.PccReleaseHandle;
+
+import java.math.BigDecimal;
+import java.math.RoundingMode;
+import java.util.EnumSet;
 
 /**
  * Connects to Bike Speed Plugin and display all the event data.
@@ -572,20 +569,25 @@ public class Activity_BikeSpeedDistanceSampler extends Activity
         textView_IsStopped.setText("---");
 
         Intent intent = getIntent();
-        if (intent.hasExtra(Activity_MultiDeviceSearchSampler.EXTRA_KEY_MULTIDEVICE_SEARCH_RESULT))
-        {
-            // device has already been selected through the multi-device search
-            MultiDeviceSearchResult result = intent
-                .getParcelableExtra(Activity_MultiDeviceSearchSampler.EXTRA_KEY_MULTIDEVICE_SEARCH_RESULT);
-            boolean isBSC = result.getAntDeviceType().equals(DeviceType.BIKE_SPDCAD);
-            bsdReleaseHandle = AntPlusBikeSpeedDistancePcc.requestAccess(this,
-                result.getAntDeviceNumber(), 0, isBSC, mResultReceiver, mDeviceStateChangeReceiver);
-        } else
-        {
-            // starts the plugins UI search
-            bsdReleaseHandle = AntPlusBikeSpeedDistancePcc.requestAccess(this, this,
+        // added
+        bsdReleaseHandle = AntPlusBikeSpeedDistancePcc.requestAccess(this, this,
                 mResultReceiver, mDeviceStateChangeReceiver);
-        }
+        // \ added
+
+//        if (intent.hasExtra(Activity_MultiDeviceSearchSampler.EXTRA_KEY_MULTIDEVICE_SEARCH_RESULT))
+//        {
+//            // device has already been selected through the multi-device search
+//            MultiDeviceSearchResult result = intent
+//                .getParcelableExtra(Activity_MultiDeviceSearchSampler.EXTRA_KEY_MULTIDEVICE_SEARCH_RESULT);
+//            boolean isBSC = result.getAntDeviceType().equals(DeviceType.BIKE_SPDCAD);
+//            bsdReleaseHandle = AntPlusBikeSpeedDistancePcc.requestAccess(this,
+//                result.getAntDeviceNumber(), 0, isBSC, mResultReceiver, mDeviceStateChangeReceiver);
+//        } else
+//        {
+//            // starts the plugins UI search
+//            bsdReleaseHandle = AntPlusBikeSpeedDistancePcc.requestAccess(this, this,
+//                mResultReceiver, mDeviceStateChangeReceiver);
+//        }
     }
 
     @Override
