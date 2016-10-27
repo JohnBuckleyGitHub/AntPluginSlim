@@ -7,9 +7,9 @@
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
-                    "endLine": 15,
+                    "endLine": 4,
                     "endColumn": 19,
-                    "endOffset": 549
+                    "endOffset": 153
                 },
                 "from": {
                     "file": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\values\\strings.xml",
@@ -17,19 +17,19 @@
                         "startLine": 15,
                         "startColumn": 4,
                         "startOffset": 531,
-                        "endLine": 28,
+                        "endLine": 17,
                         "endColumn": 19,
-                        "endOffset": 1038
+                        "endOffset": 631
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 16,
+                    "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 554,
+                    "startOffset": 158,
                     "endColumn": 45,
-                    "endOffset": 595
+                    "endOffset": 199
                 },
                 "from": {
                     "file": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\values\\strings.xml",
@@ -44,125 +44,106 @@
             },
             {
                 "to": {
-                    "startLine": 17,
+                    "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 600,
+                    "startOffset": 204,
                     "endColumn": 45,
-                    "endOffset": 641
+                    "endOffset": 245
                 },
                 "from": {
                     "file": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 36,
+                        "startLine": 25,
                         "startColumn": 4,
-                        "startOffset": 1479,
+                        "startOffset": 1079,
                         "endColumn": 45,
-                        "endOffset": 1520
+                        "endOffset": 1120
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 18,
+                    "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 646,
+                    "startOffset": 250,
                     "endColumn": 77,
-                    "endOffset": 719
+                    "endOffset": 323
                 },
                 "from": {
                     "file": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 32,
+                        "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 1190,
+                        "startOffset": 790,
                         "endColumn": 77,
-                        "endOffset": 1263
+                        "endOffset": 863
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 19,
+                    "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 724,
+                    "startOffset": 328,
                     "endColumn": 81,
-                    "endOffset": 801
+                    "endOffset": 405
                 },
                 "from": {
                     "file": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 35,
+                        "startLine": 24,
                         "startColumn": 4,
-                        "startOffset": 1396,
+                        "startOffset": 996,
                         "endColumn": 81,
-                        "endOffset": 1473
+                        "endOffset": 1073
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 20,
+                    "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 806,
+                    "startOffset": 410,
                     "endColumn": 69,
-                    "endOffset": 871
+                    "endOffset": 475
                 },
                 "from": {
                     "file": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 33,
+                        "startLine": 22,
                         "startColumn": 4,
-                        "startOffset": 1269,
+                        "startOffset": 869,
                         "endColumn": 69,
-                        "endOffset": 1334
+                        "endOffset": 934
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 21,
+                    "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 876,
-                    "endColumn": 70,
-                    "endOffset": 942
-                },
-                "from": {
-                    "file": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 30,
-                        "startColumn": 4,
-                        "startOffset": 1046,
-                        "endColumn": 70,
-                        "endOffset": 1112
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 22,
-                    "startColumn": 4,
-                    "startOffset": 947,
+                    "startOffset": 480,
                     "endColumn": 54,
-                    "endOffset": 997
+                    "endOffset": 530
                 },
                 "from": {
                     "file": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 34,
+                        "startLine": 23,
                         "startColumn": 4,
-                        "startOffset": 1340,
+                        "startOffset": 940,
                         "endColumn": 54,
-                        "endOffset": 1390
+                        "endOffset": 990
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 23,
+                    "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 1002,
+                    "startOffset": 535,
                     "endColumn": 55,
-                    "endOffset": 1053
+                    "endOffset": 586
                 },
                 "from": {
                     "file": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\values\\strings.xml",
@@ -177,11 +158,11 @@
             },
             {
                 "to": {
-                    "startLine": 24,
+                    "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1058,
+                    "startOffset": 591,
                     "endColumn": 75,
-                    "endOffset": 1129
+                    "endOffset": 662
                 },
                 "from": {
                     "file": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\values\\strings.xml",
@@ -196,31 +177,31 @@
             },
             {
                 "to": {
-                    "startLine": 25,
+                    "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1134,
+                    "startOffset": 667,
                     "endColumn": 64,
-                    "endOffset": 1194
+                    "endOffset": 727
                 },
                 "from": {
                     "file": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 31,
+                        "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 1118,
+                        "startOffset": 718,
                         "endColumn": 70,
-                        "endOffset": 1184
+                        "endOffset": 784
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 26,
+                    "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1199,
-                    "endLine": 32,
+                    "startOffset": 732,
+                    "endLine": 20,
                     "endColumn": 12,
-                    "endOffset": 1485
+                    "endOffset": 1018
                 },
                 "from": {
                     "file": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\values\\styles.xml",
@@ -236,12 +217,12 @@
             },
             {
                 "to": {
-                    "startLine": 33,
+                    "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 1490,
-                    "endLine": 35,
+                    "startOffset": 1023,
+                    "endLine": 23,
                     "endColumn": 12,
-                    "endOffset": 1645
+                    "endOffset": 1178
                 },
                 "from": {
                     "file": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\values\\styles.xml",

@@ -1,34 +1,14 @@
 [
     {
-        "merged": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_device_info.xml",
-        "source": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\layout\\layout_device_info.xml"
-    },
-    {
         "merged": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_progresswaiter.xml",
         "source": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\layout\\dialog_progresswaiter.xml"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_device_list.xml",
-        "source": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\layout\\activity_device_list.xml"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_async_scan.xml",
-        "source": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\layout\\activity_async_scan.xml"
     },
     {
         "merged": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_file_id.xml",
         "source": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\layout\\layout_file_id.xml"
     },
     {
-        "merged": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dashboard.xml",
-        "source": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\layout\\activity_dashboard.xml"
-    },
-    {
         "merged": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bike_speeddistance.xml",
         "source": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\layout\\activity_bike_speeddistance.xml"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_multidevice_searchresult.xml",
-        "source": "C:\\AndroidStudioProjects\\AntPluginSlim\\app\\src\\main\\res\\layout\\layout_multidevice_searchresult.xml"
     }
 ]

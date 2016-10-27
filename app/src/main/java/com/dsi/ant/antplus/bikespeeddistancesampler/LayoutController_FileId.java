@@ -7,14 +7,13 @@ Copyright (c) Dynastream Innovations Inc. 2013
 All rights reserved.
 */
 
-package com.dsi.ant.antplus.pluginsampler;
+package com.dsi.ant.antplus.bikespeeddistancesampler;
 
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.dsi.ant.antplus.pluginsampler.R;
 import com.garmin.fit.DateTime;
 import com.garmin.fit.File;
 import com.garmin.fit.FileIdMesg;

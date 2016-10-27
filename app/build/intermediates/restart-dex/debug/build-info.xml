@@ -4,27 +4,27 @@
     api-level="21"
     density="xxhdpi"
     format="7"
-    timestamp="163915590598969"
+    timestamp="164805867144985"
     token="9131596692442596537" >
 
     <task
         name="javac"
-        duration="66" />
+        duration="245" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="8" />
+        duration="342" />
     <task
         name="verifier"
-        duration="2" />
+        duration="70" />
 
     <artifact
         location="C:\AndroidStudioProjects\AntPluginSlim\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
-    <build timestamp="163915590598969" >
+    <build timestamp="164805867144985" >
         <artifact
             location="C:\AndroidStudioProjects\AntPluginSlim\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />

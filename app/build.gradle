@@ -5,7 +5,7 @@ android {
     buildToolsVersion "24.0.1"
 
     defaultConfig {
-        applicationId "com.dsi.ant.antplus.pluginsampler"
+        applicationId "com.dsi.ant.antplus.bikespeeddistancesampler"
         minSdkVersion 7
         targetSdkVersion 21
     }

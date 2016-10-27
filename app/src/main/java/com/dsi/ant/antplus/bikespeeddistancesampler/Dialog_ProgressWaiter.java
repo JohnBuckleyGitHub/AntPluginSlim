@@ -7,7 +7,7 @@ Copyright (c) Dynastream Innovations Inc. 2013
 All rights reserved.
 */
 
-package com.dsi.ant.antplus.pluginsampler;
+package com.dsi.ant.antplus.bikespeeddistancesampler;
 
 import android.app.AlertDialog;
 import android.app.Dialog;
